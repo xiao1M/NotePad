@@ -40,4 +40,6 @@
     <string name="error_title">Error</string>
     <string name="error_message">Error loading note</string>
     <string name="nothing_to_save">There is nothing to save</string>
+    <string name="menu_search">搜索</string>
+    <string name="default_title">新笔记</string>
 </resources>

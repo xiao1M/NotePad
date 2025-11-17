@@ -26,7 +26,7 @@ import android.provider.BaseColumns;
  * URIs. A well-written client depends only on the constants in the contract.
  */
 public final class NotePad {
-    public static final String AUTHORITY = "com.google.provider.NotePad";
+    public static final String AUTHORITY = "com.example.android.notepad.provider";
 
     // This class cannot be instantiated
     private NotePad() {
@@ -150,5 +150,16 @@ public final class NotePad {
          * <P>Type: INTEGER (long from System.curentTimeMillis())</P>
          */
         public static final String COLUMN_NAME_MODIFICATION_DATE = "modified";
+        // 添加分类列
+        public static final String COLUMN_NAME_CATEGORY = "category";// 修改创建表的SQL
+        public static final String SQL_CREATE_TABLE =
+                "CREATE TABLE " + TABLE_NAME + " (" +
+                        _ID + " INTEGER PRIMARY KEY," +
+                        COLUMN_NAME_TITLE + " TEXT," +
+                        COLUMN_NAME_NOTE + " TEXT," +
+                        COLUMN_NAME_CREATE_DATE + " INTEGER," +
+                        COLUMN_NAME_MODIFICATION_DATE + " INTEGER," +
+                        COLUMN_NAME_CATEGORY + " TEXT" +  // 新增分类列
+                        ");";
     }
 }

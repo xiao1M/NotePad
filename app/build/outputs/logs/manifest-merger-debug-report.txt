@@ -1,150 +1,308 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:22:1-120:12
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:22:1-124:12
+INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:22:1-124:12
+INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:22:1-124:12
+INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:22:1-124:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\74d50e9a291e5e3a40d61448eda901b1\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\cd8392e51821e5bf81a9c809ac8191ad\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\86180\.gradle\caches\8.11.1\transforms\19784802f3f6231a36dfe5598f582a12\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\9745b239223ca2f53245d39d2b9a3822\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\5bad01c25594f1fda37c054a6b6ef17e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\8335a9f50e7fb026eb617f975dcc758c\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\9916d4624c08c64d7ea01bb3d0b2e4fd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\003e1d76a5a578363f9a51e8c5efce3b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\40a00f8fc422dcd7c0f164046796cee3\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\b175f2554e7b24c962dd2fd825601cda\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\3664abff5f19ead0d8a78f99c4b4960c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\60cc2dbc91cd79e8f66b342430c635f8\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\e4f012f98c9c2a6e9431a732d7e7af00\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\142e6f0de63acaded554efed606e439c\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\5fc0dcdb33499174e78c064b42bc0908\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\ed2f0864fbbb23e0f25a77a7b3bd3e89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\7d387fd184e4e58fceb6620d4cd29816\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\acccfa19c669b92285c312fadb90ebc2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\fe3fb0d1b9cd5087e2168a90459fd104\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\8ce88043b4ce996dc0a6198fd22de244\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\bedb785f0557c61c8f2d3be8e1e97ea4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\f828c494313abc946df3328360cf189c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\0b5957a1403771b7877a717c5aea0971\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\14848f6556a59ba8917339767b3b5e6a\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\fc1050d53d03fddada8a613f56ef027c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\ae843a88bc0852cfdba44bd64abab926\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 	package
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:23:5-42
-		INJECTED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml
-		INJECTED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:23:5-42
+		INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:22:11-69
-uses-sdk
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:25:5-44
-	android:targetSdkVersion
-		INJECTED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml
-		INJECTED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:25:15-41
-		INJECTED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml
-		INJECTED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:22:11-69
 application
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:27:5-118:19
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:25:5-122:19
+INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:25:5-122:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\ed2f0864fbbb23e0f25a77a7b3bd3e89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\ed2f0864fbbb23e0f25a77a7b3bd3e89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\fe3fb0d1b9cd5087e2168a90459fd104\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\fe3fb0d1b9cd5087e2168a90459fd104\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\bedb785f0557c61c8f2d3be8e1e97ea4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\bedb785f0557c61c8f2d3be8e1e97ea4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:28:9-41
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:26:9-41
 	android:icon
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:27:18-52
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:25:18-52
 provider#com.example.android.notepad.NotePadProvider
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:30:9-34:20
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:28:9-32:20
 	android:authorities
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:31:13-62
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:29:13-71
 	android:exported
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:32:13-37
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:30:19-49
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:28:19-49
 grant-uri-permission
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:33:13-62
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:31:13-62
 	android:pathPattern
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:33:35-59
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:31:35-59
 activity#com.example.android.notepad.NotesList
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:36:9-53:20
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:34:9-53:20
 	android:label
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:36:44-84
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:36:13-53
+	android:exported
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:35:13-36
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:36:19-43
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:37:13-40:29
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:34:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:37:13-40:29
 action#android.intent.action.MAIN
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:38:17-69
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:39:27-74
-intent-filter#android.intent.action.EDIT+android.intent.action.PICK+android.intent.action.VIEW+android.intent.category.DEFAULT
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:41:13-47:29
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:39:27-74
+intent-filter#action:name:android.intent.action.EDIT+action:name:android.intent.action.PICK+action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/vnd.google.note
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:41:13-47:29
 action#android.intent.action.VIEW
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:42:17-69
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:42:25-66
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:42:25-66
 action#android.intent.action.EDIT
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:43:17-69
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:43:17-69
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:43:25-66
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:43:25-66
 action#android.intent.action.PICK
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:44:17-69
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:44:17-69
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:44:25-66
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:44:25-66
 category#android.intent.category.DEFAULT
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:45:17-76
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:45:17-76
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:45:27-73
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:45:27-73
 data
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:46:17-83
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:46:17-83
 	android:mimeType
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:46:23-80
-intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:48:13-52:29
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:46:23-80
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.google.note
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:48:13-52:29
 action#android.intent.action.GET_CONTENT
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:49:17-76
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:49:17-76
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:49:25-73
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:49:25-73
 activity#com.example.android.notepad.NoteEditor
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:55:9-81:20
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:55:9-82:20
 	android:screenOrientation
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:57:13-47
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:58:13-47
+	android:exported
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:56:13-36
 	android:configChanges
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:58:13-63
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:59:13-63
 	android:theme
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:56:13-60
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:57:13-60
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:55:19-44
-intent-filter#android.intent.action.EDIT+android.intent.action.VIEW+android.intent.category.DEFAULT+com.android.notepad.action.EDIT_NOTE
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:62:13-68:29
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:55:19-44
+intent-filter#action:name:android.intent.action.EDIT+action:name:android.intent.action.VIEW+action:name:com.android.notepad.action.EDIT_NOTE+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.google.note
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:63:13-69:29
 	android:label
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:62:28-64
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:63:28-64
 action#com.android.notepad.action.EDIT_NOTE
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:65:17-79
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:66:17-79
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:65:25-76
-intent-filter#android.intent.action.INSERT+android.intent.action.PASTE+android.intent.category.DEFAULT
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:74:13-79:29
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:66:25-76
+intent-filter#action:name:android.intent.action.INSERT+action:name:android.intent.action.PASTE+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/vnd.google.note
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:75:13-80:29
 action#android.intent.action.INSERT
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:75:17-71
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:76:17-71
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:75:25-68
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:76:25-68
 action#android.intent.action.PASTE
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:76:17-70
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:77:17-70
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:76:25-67
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:77:25-67
 activity#com.example.android.notepad.TitleEditor
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:83:9-108:20
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:84:9-110:20
 	android:label
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:84:13-53
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:86:13-53
 	android:windowSoftInputMode
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:87:13-55
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:89:13-55
+	android:exported
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:85:13-36
 	android:icon
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:85:13-50
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:87:13-50
 	android:theme
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:86:13-61
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:88:13-61
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:83:19-45
-intent-filter#android.intent.category.ALTERNATIVE+android.intent.category.DEFAULT+android.intent.category.SELECTED_ALTERNATIVE+com.android.notepad.action.EDIT_TITLE
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:92:13-107:29
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:84:19-45
+intent-filter#action:name:com.android.notepad.action.EDIT_TITLE+category:name:android.intent.category.ALTERNATIVE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.SELECTED_ALTERNATIVE+data:mimeType:vnd.android.cursor.item/vnd.google.note
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:94:13-109:29
 	android:label
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:92:28-65
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:94:28-65
 action#com.android.notepad.action.EDIT_TITLE
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:96:17-80
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:98:17-80
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:96:25-77
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:98:25-77
 category#android.intent.category.ALTERNATIVE
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:101:17-80
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:103:17-80
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:101:27-77
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:103:27-77
 category#android.intent.category.SELECTED_ALTERNATIVE
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:104:17-89
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:106:17-89
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:104:27-86
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:106:27-86
 activity#com.example.android.notepad.NotesLiveFolder
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:110:9-116:20
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:112:9-120:20
 	android:label
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:110:50-90
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:114:13-53
+	android:exported
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:113:13-36
 	android:icon
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:111:13-55
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:115:13-55
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:110:19-49
-intent-filter#android.intent.action.CREATE_LIVE_FOLDER+android.intent.category.DEFAULT
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:112:13-115:29
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:112:19-49
+intent-filter#action:name:android.intent.action.CREATE_LIVE_FOLDER+category:name:android.intent.category.DEFAULT
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:116:13-119:29
 action#android.intent.action.CREATE_LIVE_FOLDER
-ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:113:17-83
+ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:117:17-83
 	android:name
-		ADDED from E:\gitrepos\NotePad\app\src\main\AndroidManifest.xml:113:25-80
+		ADDED from E:\Android\NotePad\app\src\main\AndroidManifest.xml:117:25-80
+uses-sdk
+INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\74d50e9a291e5e3a40d61448eda901b1\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\74d50e9a291e5e3a40d61448eda901b1\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\cd8392e51821e5bf81a9c809ac8191ad\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\cd8392e51821e5bf81a9c809ac8191ad\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\86180\.gradle\caches\8.11.1\transforms\19784802f3f6231a36dfe5598f582a12\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\86180\.gradle\caches\8.11.1\transforms\19784802f3f6231a36dfe5598f582a12\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\9745b239223ca2f53245d39d2b9a3822\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\9745b239223ca2f53245d39d2b9a3822\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\5bad01c25594f1fda37c054a6b6ef17e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\5bad01c25594f1fda37c054a6b6ef17e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\8335a9f50e7fb026eb617f975dcc758c\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\8335a9f50e7fb026eb617f975dcc758c\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\9916d4624c08c64d7ea01bb3d0b2e4fd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\9916d4624c08c64d7ea01bb3d0b2e4fd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\003e1d76a5a578363f9a51e8c5efce3b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\003e1d76a5a578363f9a51e8c5efce3b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\40a00f8fc422dcd7c0f164046796cee3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\40a00f8fc422dcd7c0f164046796cee3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\b175f2554e7b24c962dd2fd825601cda\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\b175f2554e7b24c962dd2fd825601cda\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\3664abff5f19ead0d8a78f99c4b4960c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\3664abff5f19ead0d8a78f99c4b4960c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\60cc2dbc91cd79e8f66b342430c635f8\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\60cc2dbc91cd79e8f66b342430c635f8\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\e4f012f98c9c2a6e9431a732d7e7af00\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\e4f012f98c9c2a6e9431a732d7e7af00\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\142e6f0de63acaded554efed606e439c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\142e6f0de63acaded554efed606e439c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\5fc0dcdb33499174e78c064b42bc0908\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\5fc0dcdb33499174e78c064b42bc0908\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\ed2f0864fbbb23e0f25a77a7b3bd3e89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\ed2f0864fbbb23e0f25a77a7b3bd3e89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\7d387fd184e4e58fceb6620d4cd29816\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\7d387fd184e4e58fceb6620d4cd29816\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\acccfa19c669b92285c312fadb90ebc2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\acccfa19c669b92285c312fadb90ebc2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\fe3fb0d1b9cd5087e2168a90459fd104\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\fe3fb0d1b9cd5087e2168a90459fd104\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\8ce88043b4ce996dc0a6198fd22de244\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\8ce88043b4ce996dc0a6198fd22de244\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\bedb785f0557c61c8f2d3be8e1e97ea4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\bedb785f0557c61c8f2d3be8e1e97ea4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\f828c494313abc946df3328360cf189c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\f828c494313abc946df3328360cf189c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\0b5957a1403771b7877a717c5aea0971\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\0b5957a1403771b7877a717c5aea0971\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\14848f6556a59ba8917339767b3b5e6a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\14848f6556a59ba8917339767b3b5e6a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\fc1050d53d03fddada8a613f56ef027c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\fc1050d53d03fddada8a613f56ef027c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\ae843a88bc0852cfdba44bd64abab926\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\ae843a88bc0852cfdba44bd64abab926\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\NotePad\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\ed2f0864fbbb23e0f25a77a7b3bd3e89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\ed2f0864fbbb23e0f25a77a7b3bd3e89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\fe3fb0d1b9cd5087e2168a90459fd104\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\fe3fb0d1b9cd5087e2168a90459fd104\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\175ae6f7893e4c4141ccd9bd30ea9745\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.android.notepad.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.android.notepad.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\86180\.gradle\caches\8.11.1\transforms\83708b2b4fa04b70c9fb4b37afb7cca3\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\ed2f0864fbbb23e0f25a77a7b3bd3e89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\ed2f0864fbbb23e0f25a77a7b3bd3e89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\86180\.gradle\caches\8.11.1\transforms\ed2f0864fbbb23e0f25a77a7b3bd3e89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
